@@ -1,5 +1,7 @@
 # Kudoshelf Lite: a free testimonial wall you host yourself
 
+> **Need more than Lite?** [Kudoshelf Pro](https://jhodges6.gumroad.com/l/kudoshelf) adds the full feature set below for **$79 once**. No subscription, 14-day refund. [See the live demo →](https://jhodges3401-code.github.io/kudoshelf-demo/)
+
 Show customer testimonials on any website from one JSON file. One script tag, zero dependencies, no monthly fee. Every field is HTML-escaped.
 
 **Live demo of the full version:** https://jhodges3401-code.github.io/kudoshelf-demo/
