@@ -1,0 +1,5 @@
+[
+  { "name": "Sample Customer", "role": "Founder, Example Co", "text": "Replace this with a real testimonial from your customer." },
+  { "name": "Another Sample", "role": "Designer", "text": "Edit testimonials.json, commit, and your wall updates." },
+  { "name": "Third Sample", "role": "Agency owner", "text": "Paste one script tag and a div onto any page." }
+]
